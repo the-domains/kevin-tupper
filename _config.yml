@@ -1,0 +1,28 @@
+name: Kevin Tupper
+favicon: null
+layout_spectrum: 0.21395438257604837
+typography_spectrum: 0.41155151603743434
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.21778097958303988
+  lightness: 0.4887727352324873
+  saturation: 0.34637281531468034
+  rhythmicContrast: 0.15890609752386808
+purpose: []
